@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ahmad Sosse, 19 years old, I'm a Front-end React Web Developer based in Watampone, Indonesia.<br>🔎 I’m interested in Web Development, Copywriting, Desigining Things, Public Speaking.<br>🌱 Using Javascript, React js / Next js / Astro Js.<br>📫 Instagram, Whatsapp, Facebook, Twitter!<br>⚡ Fun fact: I love learning english and also drawing.
+👋 Hi, I’m Ahmad Sosse, 20 years old, I'm a Front-end React Web Developer based in Watampone, Indonesia.<br>🔎 I’m interested in Web Development, Copywriting, Desigining Things.<br>🌱 Using Javascript, React js / Next js / Astro Js.<br>📫 Instagram, Whatsapp, Facebook, Twitter!<br>⚡ Fun fact: I love learning english and also drawing.
 
 
 ## 🌐 Socials:
